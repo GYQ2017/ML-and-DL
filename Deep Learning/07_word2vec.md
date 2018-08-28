@@ -321,7 +321,7 @@ sess.run(embedding_init, feed_dict={embedding_placeholder: embedding})
 
 #### 参考文献
 
-- [博客-词向量Word2vec的本质](https://mp.weixin.qq.com/s/aeoFx6sIX6WNch51XRF5sg) 
+- [博客-词向量Word2vec的本质](https://mp.weixin.qq.com/s/aeoFx6sIX6WNch51XRF5sg)
 - [word2vec Parameter Learning Explained论文学习笔记](https://blog.csdn.net/lanyu_01/article/details/80097350) 
 - [刘建平 word2vec原理](https://www.cnblogs.com/pinard/p/7160330.html) 
 - [中文训练词向量-附源码](https://zhuanlan.zhihu.com/p/28979653) 
