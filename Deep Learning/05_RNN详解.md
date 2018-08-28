@@ -87,7 +87,7 @@ def bptt(self, x, y):
     dLdU = np.zeros(self.U.shape)
     dLdV = np.zeros(self.V.shape)
     dLdW = np.zeros(self.W.shape)
-    delta_o = o
+    delta_o = o 
     delta_o[np.arange(len(y)), y] -= 1.
     # For each output backwards...
     for t in np.arange(T)[::-1]:
