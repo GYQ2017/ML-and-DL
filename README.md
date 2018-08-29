@@ -14,3 +14,4 @@
   - 05_RNN详解
   - 06_LSTM详解(未完)
   - 07_word2vec
+  - 08_attention
