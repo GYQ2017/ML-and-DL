@@ -96,7 +96,9 @@ if __name__ == '__main__':
 #### 参考文献
 
 - [机器学习实战](https://www.amazon.cn/gp/search?index=books&keywords=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98&tag=readfreeme-23) 
-- [刘建平Pinard](https://www.cnblogs.com/pinard/p/6136914.html) 
+- [刘建平Pinard 实战](https://www.cnblogs.com/pinard/p/6136914.html) 
+- [刘建平Pinard 原理](https://www.cnblogs.com/pinard/p/6133937.html) 
+
 
 
 
