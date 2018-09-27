@@ -16,3 +16,6 @@
   - 06_LSTM详解(未完)
   - 07_word2vec
   - 08_attention
+  - 09_R-NET模型
+  - 10_Match-LSTM and Pointer
+  - 11_Multiway Attention
