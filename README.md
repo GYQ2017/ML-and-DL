@@ -13,9 +13,10 @@
   - 03_损失函数_自定义
   - 04_TF学习笔记(命令行参数、tensor操作、自动减少学习率、正则化、Dropout)
   - 05_RNN详解
-  - 06_LSTM详解(未完)
+  - 06_LSTM详解
   - 07_word2vec
   - 08_attention
   - 09_R-NET模型
   - 10_Match-LSTM and Pointer
   - 11_Multiway Attention
+  - 12_Adversarial_Multi-task_Learning_for_Text_Classification
